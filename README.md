@@ -34,10 +34,16 @@
 ---
 ### Especificaciones del servidor
 - Endpoints:
+  - GET - /
   - GET - /categorias
+  - GET - /generos
   - GET - /catalogo
   - GET - /catalogo/:id
   - GET - /catalogo/nombre/:nombre
   - GET - /catalogo/genero/:genero
   - GET - /catalogo/categoria/:categoria
 ---
+### Notas:
+```
+  Archivos útiles o secundarios en ´resources´
+```
